@@ -1,0 +1,34 @@
+{
+  "name": "newproject.template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.mix.js",
+  "scripts": {
+    "dev": "npm mix dev",
+    "watch": "npm mix watch",
+    "prod": "npm mix prod"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "browser-sync-webpack-plugin": "2.3.0",
+    "clean-webpack-plugin": "^4.0.0",
+    "cli-table3": "^0.6.0",
+    "compression-webpack-plugin": "^9.0.0",
+    "copy-webpack-plugin": "5.1.1",
+    "filename-regex": "^2.0.1",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-webpack-plugin": "^2.4.2",
+    "laravel-mix": "^6.0.31",
+    "laravel-mix-imagemin": "^1.0.3",
+    "mix-html-builder": "^0.8.0",
+    "resolve-url-loader": "4.0.0",
+    "sass": "1.32.13",
+    "sass-loader": "12.1.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

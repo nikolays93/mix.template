@@ -1,0 +1,13 @@
+//
+// Abstracts router
+// --------------------------
+
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+@import "variables";
+
+@import "mixins/functions";
+@import "mixins/responsive";
+@import "mixins/images";
